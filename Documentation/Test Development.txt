@@ -1,0 +1,3 @@
+6/22/2018
+The Charge Transfer sequence has been developed but not debugged.Make sure to understand the data collected.
+Test was deprioritized for a Beam position Test
